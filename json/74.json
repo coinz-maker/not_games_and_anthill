@@ -1,0 +1,21 @@
+{
+  "name": "Not Games & Anthhill. #75",
+  "description": "The dividend fund",
+  "image": "https://raw.githubusercontent.com/coinz-maker/not_games_and_anthill/refs/heads/main/imgs/74.jpg",
+  "content_url": "https://raw.githubusercontent.com/coinz-maker/not_games_and_anthill/refs/heads/main/movies/4.mp4",
+  "edition": 75,
+  "date": 1758169310072,
+  "attributes": [
+    {
+      "trait_type": "Reward",
+      "value": "True"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Not Games Coin",
+        "uri": "https://t.me/NotGamesCoin"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}
